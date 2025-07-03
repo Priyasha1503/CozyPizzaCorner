@@ -27,9 +27,7 @@ While prepping for more technical challenges, sometimes it’s refreshing to pau
 
 ## 📸 Demo
 
-You can view a short [video demo here](#) or check out a snapshot below:
-
-![Cozy Pizza Corner Screenshot](./screenshot.png)
+> Coming soon or in Linkedin
 
 ---
 
@@ -39,6 +37,7 @@ You can view a short [video demo here](#) or check out a snapshot below:
 - CSS3
 
 ---
+>>used Deep AI for those wonderful images
 
 ## 💡 Learnings
 
@@ -52,7 +51,7 @@ You can view a short [video demo here](#) or check out a snapshot below:
 
 ## 🌐 Live Link
 
-> Coming soon or hosted on GitHub Pages (optional)
+> Coming soon 
 
 ---
 
